@@ -156,6 +156,20 @@ h3:hover {
       gap: 1rem;
     }
 }
+@media screen and (min-width:992px) {
+    .main__contacto{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#section-contacto{
+    width: 70%;
+    margin: 3rem 0;
+
+}
+}
 
 
 
